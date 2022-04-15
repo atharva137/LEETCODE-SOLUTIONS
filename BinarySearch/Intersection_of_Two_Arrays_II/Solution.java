@@ -1,5 +1,3 @@
-package BinarySearch.Intersection_of_Two_Arrays_II;
-
 import java.util.ArrayList;
 import java.util.HashMap;
 class Solution {
