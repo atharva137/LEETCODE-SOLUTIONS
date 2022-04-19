@@ -1,3 +1,5 @@
+import java.util.HashMap;
+
 class Solution {
     public int longestConsecutive(int[] nums) {
         HashMap<Integer,Boolean> hashMap = new HashMap<Integer,Boolean>();
